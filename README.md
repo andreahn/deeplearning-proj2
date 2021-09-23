@@ -9,3 +9,5 @@
 Skeleton code was provided. See <b>resnet50_skeleton.py</b> for my code.
 
 In this project a modified version of ResNet50 is implemented. The implementation follows the following table:
+
+![CNN](https://user-images.githubusercontent.com/57245846/134505273-9a129dbd-c973-49a0-8e65-2e76ba2be6a3.jpg)
